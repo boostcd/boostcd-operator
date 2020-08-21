@@ -1,0 +1,7 @@
+domain: boostcd.io
+layout: go.kubebuilder.io/v2
+projectName: boostcd-operator
+repo: github.com/boostcd/boostcd-operator
+version: 3-alpha
+plugins:
+  go.sdk.operatorframework.io/v2-alpha: {}
